@@ -125,17 +125,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ClaytonDeWitt/css-exercises.git"
+    "url": "git+https://github.com/ClaytonDeWitt/mybrary.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ClaytonDeWitt/css-exercises/issues"
+    "url": "https://github.com/ClaytonDeWitt/mybrary/issues"
   },
-  "homepage": "https://github.com/ClaytonDeWitt/css-exercises#readme",
+  "homepage": "https://github.com/ClaytonDeWitt/mybrary#readme",
   "devDependencies": {
     "dotenv": "^16.0.3",
-    "nodemon": "^2.0.20"
+    "nodemon": "^2.0.20",
+    "node": "16.13.2"
   }
 }
