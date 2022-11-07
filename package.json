@@ -122,6 +122,10 @@
     "start": "node server.js",
     "devStart": "nodemon server.js"
   },
+  "engines": {
+    "npm": "8.19.2",
+    "node": "19.0.1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ClaytonDeWitt/mybrary.git"
