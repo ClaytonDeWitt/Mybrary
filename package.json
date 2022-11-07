@@ -1,7 +1,6 @@
 {
   "name": "clay",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "dependencies": {
     "abbrev": "^1.1.1",
@@ -138,5 +137,6 @@
     "dotenv": "^16.0.3",
     "nodemon": "^2.0.20",
     "node": "19.0.1"
-  }
+  },
+  "description": ""
 }
